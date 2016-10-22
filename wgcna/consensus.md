@@ -6,7 +6,7 @@ Unique counts (number of sequencing reads mapping unambiguously to gene regions)
 
 ![alt text](https://github.com/n-long/n-long.github.io/blob/master/wgcna/consensus.png "Consensus Network")
 
-Figure 1 – Module membership contrasts for affected (y-axis) against consensus (x-axis) networks. Grey modules are unassigned (too low connectivity). Matrix numbers represent genes shared in both modules, while degree of red is determined by the -log(p) value of the Fisher's exact test for shared membership. Genes that significantly overlap between affected modules and the grey consensus module are inferred to have connectivity unique to the affected condition.
+Figure 1 – Module membership contrasts for affected (y-axis) against consensus (x-axis) networks. Grey modules are unassigned (too low connectivity). Matrix numbers represent genes shared in both modules, while degree of red is determined by the -log(p) value of the Fisher's exact test for shared membership. Genes that significantly overlap between affected modules and the grey consensus module (no shared connectivity) are inferred to have connectivity unique to the affected condition.
 
 Table 1 - Blue module
 ![alt text](https://github.com/n-long/n-long.github.io/blob/master/wgcna/royalblue3.png "royalblue3")
